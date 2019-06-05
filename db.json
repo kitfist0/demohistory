@@ -1,48 +1,5 @@
 { 
-  "events2": [
-    {
-      "user_id": 22,"user_color": "#7C4DFF","type": "default","param": "","time": 0,
-      "lat": 52.377766,"lon": 4.901230,"addr": "Test address 220, City",
-      "bat": "77%","net": "HSPA+","act": "on_foot"
-    },{
-      "user_id": 22,"user_color": "#7C4DFF","type": "in_place","param": "Flevopark","time": 0,
-      "lat": 52.360184,"lon": 4.950413,"addr": "Flevopark, Amsterdam",
-      "bat": "75%","net": "HSPA+","act": "on_foot"
-    },{
-      "user_id": 22,"user_color": "#7C4DFF","type": "out_place","param": "Flevopark","time": 0,
-      "lat": 52.353293,"lon": 4.956164,"addr": "Science Park, 1098, Amsterdam",
-      "bat": "73%","net": "LTE","act": "in_vehicle"
-    },{
-      "user_id": 22,"user_color": "#7C4DFF","type": "default","param": "","time": 0,
-      "lat": 52.353859,"lon": 4.959319,"addr": "Science Park 814F, Amsterdam",
-      "bat": "69%","net": "LTE","act": "still"
-    },{
-      "user_id": 22,"user_color": "#7C4DFF","type": "default","param": "","time": 0,
-      "lat": 52.355196,"lon": 4.960370,"addr": "Science Park 612, Amsterdam",
-      "bat": "69%","net": "LTE","act": "on_foot"
-    },{
-      "user_id": 22,"user_color": "#7C4DFF","type": "default","param": "","time": 0,
-      "lat": 52.355931,"lon": 4.957194,"addr": "Science Park, 1098XH, Amsterdam",
-      "bat": "68%","net": "LTE","act": "on_foot"
-    },{
-      "user_id": 22,"user_color": "#7C4DFF","type": "default","param": "","time": 0,
-      "lat": 52.354064,"lon": 4.957248,"addr": "Science Park 912, Amsterdam",
-      "bat": "66%","net": "LTE","act": "in_vehicle"
-    },{
-      "user_id": 22,"user_color": "#7C4DFF","type": "default","param": "","time": 0,
-      "lat": 52.353230,"lon": 4.953053,"addr": "Carolina MacGillavrylaan, 1098, Amsterdam",
-      "bat": "64%","net": "LTE","act": "in_vehicle"
-    },{
-      "user_id": 22,"user_color": "#7C4DFF","type": "in_danger_place","param": "DangerPlace#1","time": 0,
-      "lat": 52.352865,"lon": 4.949389,"addr": "Kruislaan 250, 1098, Amsterdam",
-      "bat": "63%","net": "LTE","act": "in_vehicle"
-    },{
-      "user_id": 22,"user_color": "#7C4DFF","type": "out_danger_place","param": "DangerPlace#1","time": 0,
-      "lat": 52.350040,"lon": 4.944609,"addr": "Radioweg, 1098, Amsterdam",
-      "bat": "60%","net": "LTE","act": "in_vehicle"
-    }
-  ],
-  "events1": [
+    "events1": [
     {
       "user_id": 11,"user_color": "#009688","type": "in_place","param": "Hyde Park","time": 0,
       "lat": 51.507973,"lon": -0.172176,"addr": "West Carriage Drive, London",
@@ -83,6 +40,49 @@
       "user_id": 11,"user_color": "#009688","type": "default","param": "","time": 0,
       "lat": 51.533789,"lon": -0.102460,"addr": "26 Colebrooke Row, London",
       "bat": "88%","net": "HSPA+","act": "on_foot"
+    }
+  ],
+  "events2": [
+    {
+      "user_id": 22,"user_color": "#7C4DFF","type": "default","param": "","time": 0,
+      "lat": 52.361339,"lon": 4.942539,"addr": "Bataviastraat 29D, Amsterdam",
+      "bat": "77%","net": "HSPA+","act": "on_foot"
+    },{
+      "user_id": 22,"user_color": "#7C4DFF","type": "in_place","param": "Flevopark","time": 0,
+      "lat": 52.360184,"lon": 4.950413,"addr": "Flevopark, Amsterdam",
+      "bat": "75%","net": "HSPA+","act": "on_foot"
+    },{
+      "user_id": 22,"user_color": "#7C4DFF","type": "out_place","param": "Flevopark","time": 0,
+      "lat": 52.353293,"lon": 4.956164,"addr": "Science Park, 1098, Amsterdam",
+      "bat": "73%","net": "LTE","act": "in_vehicle"
+    },{
+      "user_id": 22,"user_color": "#7C4DFF","type": "default","param": "","time": 0,
+      "lat": 52.353859,"lon": 4.959319,"addr": "Science Park 814F, Amsterdam",
+      "bat": "69%","net": "LTE","act": "still"
+    },{
+      "user_id": 22,"user_color": "#7C4DFF","type": "default","param": "","time": 0,
+      "lat": 52.355196,"lon": 4.960370,"addr": "Science Park 612, Amsterdam",
+      "bat": "69%","net": "LTE","act": "on_foot"
+    },{
+      "user_id": 22,"user_color": "#7C4DFF","type": "default","param": "","time": 0,
+      "lat": 52.355931,"lon": 4.957194,"addr": "Science Park, 1098XH, Amsterdam",
+      "bat": "68%","net": "LTE","act": "on_foot"
+    },{
+      "user_id": 22,"user_color": "#7C4DFF","type": "default","param": "","time": 0,
+      "lat": 52.354064,"lon": 4.957248,"addr": "Science Park 912, Amsterdam",
+      "bat": "66%","net": "LTE","act": "in_vehicle"
+    },{
+      "user_id": 22,"user_color": "#7C4DFF","type": "default","param": "","time": 0,
+      "lat": 52.353230,"lon": 4.953053,"addr": "Carolina MacGillavrylaan, 1098, Amsterdam",
+      "bat": "64%","net": "LTE","act": "in_vehicle"
+    },{
+      "user_id": 22,"user_color": "#7C4DFF","type": "in_danger_place","param": "DangerPlace#1","time": 0,
+      "lat": 52.352865,"lon": 4.949389,"addr": "Kruislaan 250, 1098, Amsterdam",
+      "bat": "63%","net": "LTE","act": "in_vehicle"
+    },{
+      "user_id": 22,"user_color": "#7C4DFF","type": "out_danger_place","param": "DangerPlace#1","time": 0,
+      "lat": 52.350040,"lon": 4.944609,"addr": "Radioweg, 1098, Amsterdam",
+      "bat": "60%","net": "LTE","act": "in_vehicle"
     }
   ]
 }
