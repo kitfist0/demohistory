@@ -76,11 +76,11 @@
       "lat": 52.353230,"lon": 4.953053,"addr": "Carolina MacGillavrylaan, 1098, Amsterdam",
       "bat": "64%","net": "LTE","act": "in_vehicle"
     },{
-      "user_id": 22,"user_color": "#7C4DFF","type": "in_danger_place","param": "DangerPlace#1","time": 0,
+      "user_id": 22,"user_color": "#7C4DFF","type": "in_danger_place","param": "Abandoned house","time": 0,
       "lat": 52.352865,"lon": 4.949389,"addr": "Kruislaan 250, 1098, Amsterdam",
       "bat": "63%","net": "LTE","act": "in_vehicle"
     },{
-      "user_id": 22,"user_color": "#7C4DFF","type": "out_danger_place","param": "DangerPlace#1","time": 0,
+      "user_id": 22,"user_color": "#7C4DFF","type": "out_danger_place","param": "Abandoned house","time": 0,
       "lat": 52.350040,"lon": 4.944609,"addr": "Radioweg, 1098, Amsterdam",
       "bat": "60%","net": "LTE","act": "in_vehicle"
     }
